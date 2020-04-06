@@ -6,3 +6,5 @@ We applied **text analytics** in exploratory data analysis and picked ten words 
 
 
 This is a team project. Other creators are [Jiali Yin](https://www.linkedin.com/in/jiali-yin/), [Xinyi Zhu](https://www.linkedin.com/in/xinyi-zhu/), [Linsay Trinh](https://www.linkedin.com/in/lindsay-trinh/), [Shangyun Song](https://www.linkedin.com/in/shangyun-song/) and [Yasi Chen](https://www.linkedin.com/in/yasi-chen-214a8418a/).
+
+A more detailed project description can be found on [my blog](https://alyyhu.github.io/2019/10/14/PetFinderProject/). 
