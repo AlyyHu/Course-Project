@@ -5,6 +5,6 @@ This dataset was provided by **PetFinder**, a non-profit organization, who aims 
 We applied **text analytics** in exploratory data analysis and picked ten words that has the highest frequency in the description of each record. Because of our target variable's multi-class characteristic, we choose three models to make prediction, including **Random Forest**, **SVM**, and **Multinomial logistic regression**. We used **LASSO** and **Post-LASSO** to reduce overfitting. We also used **cross-validation** to compare models based on its out-of-sample accuracy. We choose Random Forest as the optimal model with a 65% out-of-sample accuracy.
 
 
-This is a team project. Other creators are [Jiali Yin](https://www.linkedin.com/in/jiali-yin/), [Xinyi Zhu](https://www.linkedin.com/in/xinyi-zhu/), [Linsay Trinh](https://www.linkedin.com/in/lindsay-trinh/), [Shangyun Song](https://www.linkedin.com/in/shangyun-song/) and [Yasi Chen](https://www.linkedin.com/in/yasi-chen-214a8418a/).
+This is a **team project**. **Co-authors** are [Jiali Yin](https://www.linkedin.com/in/jiali-yin/), [Xinyi Zhu](https://www.linkedin.com/in/xinyi-zhu/), [Linsay Trinh](https://www.linkedin.com/in/lindsay-trinh/), [Shangyun Song](https://www.linkedin.com/in/shangyun-song/) and [Yasi Chen](https://www.linkedin.com/in/yasi-chen-214a8418a/).
 
-A more detailed project description can be found on [my blog](https://alyyhu.github.io/2019/10/14/PetFinderProject/). 
+A more detailed **project description** can be found on **[my blog](https://alyyhu.github.io/2019/10/14/PetFinderProject/)**. 
