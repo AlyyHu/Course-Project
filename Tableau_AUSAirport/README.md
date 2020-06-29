@@ -1,6 +1,8 @@
 # Austin-Bergstrom International Expansion Plan
 
-**This is a team project. Co-authors are [Jiali Yin](https://www.linkedin.com/in/jiali-yin/), [Xinyi Zhu](https://www.linkedin.com/in/xinyi-zhu/), [Linsay Trinh](https://www.linkedin.com/in/lindsay-trinh/), [Shangyun Song](https://www.linkedin.com/in/shangyun-song/) and [Yasi Chen](https://www.linkedin.com/in/yasi-chen-214a8418a/). A more detailed desciption can be found on my [blog](https://alyyhu.github.io/2019/12/09/AirportVisualization/)The original tbwx file exceeds the size limitation on Tableau Public, so I used gif images to introduce the interactive functions for each dashboards.** 
+**This is a team project. Co-authors are [Jiali Yin](https://www.linkedin.com/in/jiali-yin/), [Xinyi Zhu](https://www.linkedin.com/in/xinyi-zhu/), [Linsay Trinh](https://www.linkedin.com/in/lindsay-trinh/), [Shangyun Song](https://www.linkedin.com/in/shangyun-song/) and [Yasi Chen](https://www.linkedin.com/in/yasi-chen-214a8418a/).**
+
+**A more detailed desciption can be found on my [blog](https://alyyhu.github.io/2019/12/09/AirportVisualization/). The original tbwx file exceeds the size limitation on Tableau Public, so I used gif images to introduce the interactive functions for each dashboards.** 
 
 ## Summary
 Austin city is one of the fastest growing cities in the nation, both from economic and demographic perspective. To meet the increasing demand in the airport caused by the rapidly increasing population, AUS introduced a 40-Year Master Expansion Plan around 2000. We analyzed the data of flights departing from or arriving at Austin airport using **Tableau**. Our goal is to give recommendation on how to improve the capacity and efficiency of the airport and develop the AUS 40-years expansion plan. 
